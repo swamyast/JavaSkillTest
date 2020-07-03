@@ -22,6 +22,7 @@ public class HashMapEx {
 		for(Map.Entry<String, String> entry:hm.entrySet()) {
 			System.out.println(entry.getKey());
 			System.out.println(entry.getValue());
+			System.out.println("First message after git");
 		}
 		
 	}
